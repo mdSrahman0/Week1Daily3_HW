@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week1Daily3_HW</string>
+    <string name="fName_input_hint">Please enter your first name</string>
+    <string name="lName_input_hint">Please enter your last name</string>
+    <string name="addr_input_hint">Please enter your street address</string>
+    <string name="city_input_hint">Please enter your city</string>
+    <string name="state_input_hint">Please enter your state</string>
+    <string name="zip_input_hint">Please enter your zipcode</string>
+    <string name="Proceed">Continue</string>
+</resources>
